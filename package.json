@@ -1,0 +1,12 @@
+{
+  "name": "brasilcenter-ribeirao-preto",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Página de demonstração sobre as vagas da BrasilCenter em Ribeirão Preto - SP, com teste de requisitos, sem dependências.",
+  "scripts": {
+    "dev": "node server.mjs",
+    "start": "node server.mjs",
+    "build": "node scripts/build.mjs",
+    "test": "node --test \"testes/*.test.mjs\""
+  }
+}
