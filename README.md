@@ -4,6 +4,8 @@ Página de demonstração desenvolvida por Melissa Suelen Chiarato Pereira no es
 
 A página não é um canal oficial da BrasilCenter e não coleta dados. Todos os botões de candidatura levam ao portal oficial de vagas, [Vem ser BCC](https://vemprabcc.gupy.io/).
 
+Endereço publicado: https://estagio-multivix-2026-melissa-suele.vercel.app/. O `og:url` e o `og:image` do `index.html` apontam para ele, para a prévia do link aparecer certa no WhatsApp e nas redes. Se o endereço mudar, troque nos dois.
+
 ## Como rodar
 
 Precisa só do Node.js 18 ou mais novo. Não há dependências para instalar.
